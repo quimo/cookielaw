@@ -1,0 +1,31 @@
+#cookielaw { 
+	font-family: 'Verdana', 'Arial', sans-serif; 
+	font-size: 11px;
+	margin: 20px;
+	/* regole per far scrollare il content su ipad */
+	position: absolute;
+	width: auto;
+	height: 90%;
+	overflow: auto;
+}
+
+#cookielaw a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#cookielaw h1, #cookielaw h2, #cookielaw h3 {
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+}
+
+#cookielaw a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#cookielaw h1, #cookielaw h2, #cookielaw h3 {
+	margin: 0 0 10px 0;
+	padding: 0;
+}
